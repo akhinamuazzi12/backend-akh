@@ -1,0 +1,31 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Andi Saputra",
+      "email": "andi.saputra@example.com",
+      "alamat": "Jl. Merdeka No.10, Jakarta",
+      "prodi": "Teknik Informatika",
+      "notelpon": "081234567890",
+      "komen": "Senang belajar di sini!"
+    },
+    {
+      "id": 2,
+      "name": "Siti Nurhaliza",
+      "email": "siti.nurhaliza@example.com",
+      "alamat": "Jl. Sudirman No.5, Bandung",
+      "prodi": "Sistem Informasi",
+      "notelpon": "082345678901",
+      "komen": "Materi sangat membantu."
+    },
+    {
+      "id": 3,
+      "name": "Budi Santoso",
+      "email": "budi.santoso@example.com",
+      "alamat": "Jl. Diponegoro No.20, Surabaya",
+      "prodi": "Teknik Komputer",
+      "notelpon": "083456789012",
+      "komen": "Butuh lebih banyak latihan praktikum."
+    }
+  ]
+}
